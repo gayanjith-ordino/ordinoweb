@@ -86,4 +86,4 @@ Ordino mirrors this folder structure in the portal, making it easy to find and g
 
 Your tests are now visible in the Ordino Portal. Let's take a tour of what you can do there.
 
-→ [Using the Ordino Portal](./07-using-the-ordino-portal.md)
+→ [Using the Ordino Portal](/docs/using-the-ordino-portal)

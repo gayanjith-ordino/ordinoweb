@@ -111,4 +111,4 @@ If a test fails because of an outdated selector or unexpected page behaviour:
 
 Once all your tests are passing locally, you're ready to push them to your Git repository.
 
-→ [Pushing Tests to Git](./06-pushing-tests-to-git.md)
+→ [Pushing Tests to Git](/docs/pushing-tests-to-git)

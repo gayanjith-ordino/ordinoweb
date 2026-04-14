@@ -146,7 +146,7 @@ or
 
 > "Use Ordino to generate a test for the login page"
 
-If the connection is working, your tool will respond with Ordino's available capabilities or begin generating a test. If you run into issues, see the [FAQ](./10-faq.md#connection-issues) for troubleshooting steps.
+If the connection is working, your tool will respond with Ordino's available capabilities or begin generating a test. If you run into issues, see the [FAQ](/docs/faq#connection-issues) for troubleshooting steps.
 
 ---
 
@@ -154,4 +154,4 @@ If the connection is working, your tool will respond with Ordino's available cap
 
 With the Ordino MCP server connected, you're ready to generate your first test scripts.
 
-→ [Generating Test Scripts](./04-generating-test-scripts.md)
+→ [Generating Test Scripts](/docs/generating-test-scripts)

@@ -131,4 +131,4 @@ Use Ordino to generate a Playwright API test for:
 
 Once you're happy with the generated scripts, the next step is to run them locally to make sure everything works before pushing to your repo.
 
-→ [Running Tests Locally](./05-running-tests-locally.md)
+→ [Running Tests Locally](/docs/running-tests-locally)

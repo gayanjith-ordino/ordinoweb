@@ -57,4 +57,4 @@ Your agentic coding tool (Claude Code / Cursor / GitHub Copilot)
 
 ## Next steps
 
-Ready to get started? Head to [Getting Started](./02-getting-started.md) to create your account and explore the sandbox environment.
+Ready to get started? Head to [Getting Started](/docs/getting-started) to create your account and explore the sandbox environment.

@@ -66,4 +66,4 @@ Before you can generate tests, you'll need to connect your agentic coding tool t
 
 Your account is ready and your sandbox is waiting. Next up: connect your agentic coding tool to the Ordino MCP server.
 
-→ [Connecting Your Agentic Coding Tool](./03-connecting-your-coding-tool.md)
+→ [Connecting Your Agentic Coding Tool](/docs/connecting-your-coding-tool)

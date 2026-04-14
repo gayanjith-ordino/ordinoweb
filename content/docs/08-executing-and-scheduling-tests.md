@@ -132,4 +132,4 @@ Tests run in parallel where possible, so a large suite typically completes much 
 
 Once your tests have run, head to the Results & Reports section to analyse what happened and share summaries with your team.
 
-→ [Viewing Results & Reports](./09-viewing-results-and-reports.md)
+→ [Viewing Results & Reports](/docs/viewing-results-and-reports)

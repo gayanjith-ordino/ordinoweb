@@ -86,4 +86,4 @@ To give colleagues access to the portal:
 
 Now that you're familiar with the portal, let's look at how to execute tests and set up scheduled runs.
 
-→ [Executing & Scheduling Tests](./08-executing-and-scheduling-tests.md)
+→ [Executing & Scheduling Tests](/docs/executing-and-scheduling-tests)

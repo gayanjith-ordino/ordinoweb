@@ -29,7 +29,7 @@ Agentic coding tools are general-purpose — they can write tests, but they don'
 
 ### Which agentic coding tools does Ordino support?
 
-Any tool that supports the Model Context Protocol (MCP) can connect to Ordino. This includes Claude Code, Cursor, GitHub Copilot (VS Code), and others. See [Connecting Your Agentic Coding Tool](./03-connecting-your-coding-tool.md) for specific setup guides.
+Any tool that supports the Model Context Protocol (MCP) can connect to Ordino. This includes Claude Code, Cursor, GitHub Copilot (VS Code), and others. See [Connecting Your Agentic Coding Tool](/docs/connecting-your-coding-tool) for specific setup guides.
 
 ### <a name="connection-issues"></a>My coding tool isn't connecting to the Ordino MCP server. What should I check?
 
@@ -75,7 +75,7 @@ Yes. When inviting team members (**Settings → Team**), assign them the **Viewe
 
 ### Can I share results with someone who doesn't have an Ordino account?
 
-Yes. Any execution result or generated report can be shared via a public link. See [Viewing Results & Reports](./09-viewing-results-and-reports.md) for instructions.
+Yes. Any execution result or generated report can be shared via a public link. See [Viewing Results & Reports](/docs/viewing-results-and-reports) for instructions.
 
 ---
 
@@ -87,7 +87,7 @@ Yes. When you run a suite, Ordino executes tests in parallel automatically, sign
 
 ### Can I set up Ordino to run tests on every pull request?
 
-Yes. Use the Ordino API in your CI/CD pipeline to trigger a run on pull request events. See the [GitHub Actions example](./08-executing-and-scheduling-tests.md) in the Executing & Scheduling guide.
+Yes. Use the Ordino API in your CI/CD pipeline to trigger a run on pull request events. See the [GitHub Actions example](/docs/executing-and-scheduling-tests) in the Executing & Scheduling guide.
 
 ### What happens if a scheduled run fails?
 
@@ -103,7 +103,7 @@ Please check [ordino.ai/pricing](https://ordino.ai/pricing) for the most up-to-d
 
 ### Can I use Ordino during the sandbox phase without connecting a real project?
 
-Absolutely. The sandbox environment is available to all users from day one and lets you try Ordino with no commitment. See [Getting Started](./02-getting-started.md) for details.
+Absolutely. The sandbox environment is available to all users from day one and lets you try Ordino with no commitment. See [Getting Started](/docs/getting-started) for details.
 
 ---
 

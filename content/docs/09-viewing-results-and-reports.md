@@ -109,4 +109,4 @@ Stay tuned for updates on this feature.
 
 ## You've completed the core workflow
 
-You now know everything you need to take a test from idea to scheduled execution and reporting with Ordino AI. If you have questions, check the [FAQ](./10-faq.md) or reach out to our support team.
+You now know everything you need to take a test from idea to scheduled execution and reporting with Ordino AI. If you have questions, check the [FAQ](/docs/faq) or reach out to our support team.
