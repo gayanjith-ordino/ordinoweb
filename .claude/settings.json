@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/ganji/Projects/ordinodocs/**)",
+      "Bash(npm install:*)",
+      "Bash(curl -s http://localhost:3000/docs/introduction)",
+      "Bash(curl -s http://localhost:3000/docs -o /dev/null -w \"%{http_code} %{redirect_url}\\\\n\")",
+      "Bash(curl -s http://localhost:3000/docs/introduction -o /dev/null -w \"%{http_code}\\\\n\")"
+    ],
+    "additionalDirectories": [
+      "/Users/ganji/Projects/ordinowebsite/src/app/docs"
+    ]
+  }
+}
